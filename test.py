@@ -1,5 +1,4 @@
-import geopandas as gpd
-from pyproj import CRS
+
 
 
 '''reprojecting new ARE data to epgs2056'''
