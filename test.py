@@ -1,13 +1,7 @@
 
 
 
-'''reprojecting new ARE data to epgs2056'''
-# Path to your GeoPackage
-# test
-file_path = "/home/ubuntu/master/data/ARE_new_polygon.gpkg"
 
-# Load the GeoPackage
-gdf = gpd.read_file(file_path)
 
 # Display basic information
 print("Dataset Info:")
