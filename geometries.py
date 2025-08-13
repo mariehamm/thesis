@@ -1,5 +1,4 @@
-'''
-This Python script generates a hexagonal grid overlaying the geographical boundary of Switzerland 
+''' This Python script generates a hexagonal grid overlaying the geographical boundary of Switzerland 
 using the SwissBOUNDARIES3D dataset in the LV95 (CH1903+/CRS 2056) coordinate reference system. 
 The grid consists of regular hexagons with a specified side length (7500 meters), 
 and only hexagons intersecting Switzerland's boundary are retained. 

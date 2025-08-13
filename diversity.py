@@ -1,3 +1,4 @@
+
 '''This Python script calculates biodiversity indices (Shannon index) for species occurrences mapped onto
 a pre-generated hexagonal grid over Switzerland in the LV95 (EPSG:2056) coordinate system. It computes the
 Shannon Index per hexagon, along with area-weighted

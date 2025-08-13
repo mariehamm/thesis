@@ -1,10 +1,12 @@
+---not relevant for the analysis---
+
 import pandas as pd
 import geopandas as gpd
 import shapely
 
 # Paths to your input files
-suitability = '/home/ubuntu/master/data/ARE_new_polygon.gpkg'
-biogeo_file = '/home/ubuntu/master/data/BiogeographischeRegionen/N2020_Revision_BiogeoRegion.shp'
+suitability = '/ARE_new_polygon.gpkg'
+biogeo_file = '/N2020_Revision_BiogeoRegion.shp'
 
 # Read the input files
 try:
