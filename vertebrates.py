@@ -1,3 +1,4 @@
+
 '''This Python script loads and preprocesses vertebrate occurrence data (mammals, amphibians, reptiles, birds)
 from CSV files. It cleans the datasets by removing unnecessary columns, adds
 German translations for taxonomic orders, categorizes species by size group. 
