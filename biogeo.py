@@ -1,6 +1,5 @@
 ---not relevant for the analysis---
 
-
 import pandas as pd
 import geopandas as gpd
 import shapely
