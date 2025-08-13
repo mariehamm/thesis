@@ -1,3 +1,4 @@
+
 '''This Python script processes a biodiversity raster to classify biodiversity values into five
 categories using Jenks natural breaks, saves the classified raster, and polygonizes it. It then overlays the
 classified biodiversity data with photovoltaic (PV) priority areas in Switzerland to analyze their
