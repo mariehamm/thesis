@@ -1,3 +1,4 @@
+
 '''This Python script analyzes species richness across Switzerland by mapping occurrence data of mammals, amphibians, reptiles, birds 
 onto a hexagonal grid in the LV95 (EPSG:2056) coordinate system.
 It combines species datasets, applies jittering to separate overlapping points, 
